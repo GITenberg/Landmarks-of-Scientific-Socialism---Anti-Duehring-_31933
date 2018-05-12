@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32923'
     url: http://www.gutenberg.org/2009/agents/32923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31933#Landmarks-of-Scientific-Socialism---Anti-Duehring-
 gutenberg_issued: '2010-04-09'
 gutenberg_type: Text
 identifiers:
